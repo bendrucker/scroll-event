@@ -1,6 +1,6 @@
 # scroll-event [![Build Status](https://travis-ci.org/bendrucker/scroll-event.svg?branch=master)](https://travis-ci.org/bendrucker/scroll-event)
 
-> Scroll event handler for value-event
+> Scroll event handler for [value-event](https://github.com/raynos/value-event)
 
 
 ## Install
