@@ -37,7 +37,7 @@ The handler to call when the element is scrolled.
 Type: `object`  
 Default: `{}`
 
-Data to pass to the handler when the element is scrolled. This will include x/y coordinates for the scroll position in addition to custom properties you define.
+Data to pass to the handler when the element is scrolled. This will include x/y coordinates for the scroll position, the maximum scrollable distance (`{maximum: {x, y}}`), as well as custom properties you define.
 
 ## License
 
