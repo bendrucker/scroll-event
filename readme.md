@@ -1,4 +1,4 @@
-# scroll-event [![Build Status](https://travis-ci.org/bendrucker/scroll-event.svg?branch=master)](https://travis-ci.org/bendrucker/scroll-event)
+# scroll-event [![Build Status](https://travis-ci.org/bendrucker/scroll-event.svg?branch=master)](https://travis-ci.org/bendrucker/scroll-event) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/scroll-event.svg)](https://greenkeeper.io/)
 
 > Scroll event handler for [value-event](https://github.com/raynos/value-event)
 
